@@ -1,0 +1,103 @@
+<DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Porfolio de Candela</title>
+</head>
+<body>
+	<header>
+		<img src="http://ordernow.com.ar/TP2/banner-1.jpg"</>
+		<a href="indexp.html">
+			<img src="http://ordernow.com.ar/TP2/logo-white.png">
+		</a>
+		<H1>avoir</H1>
+		<nav>
+			<ul>
+				<li>Home</li>
+				<li>About</li>
+				<li>Proyects</li>
+				<li>Services</li>
+				<li>Blog</li>
+				<li>Contact</li>
+			</ul>
+		</nav>
+	</header>
+	<section>
+		<article>
+			<img src="http://ordernow.com.ar/TP2/article-1.jpg"</>
+		</article>
+		<article>
+			<img src="http://ordernow.com.ar/TP2/article-2.jpg"</>
+		</article>
+		<article>
+			<img src="http://ordernow.com.ar/TP2/article-3.jpg"</>
+		</article>
+	</section>
+	<section>
+		<article>
+			<img src="http://ordernow.com.ar/TP2/s2-a1.jpg"</>
+		</article>
+	</section>
+	<section>
+		<article>
+			<img src="http://ordernow.com.ar/TP2/s3-a1.jpg"</>
+		</article>
+		<article>
+			<img src="http://ordernow.com.ar/TP2/s3-a2.jpg">
+			<h2>Letters</h2>
+			<h3>Web</h3>
+		</article>
+		<article>
+			<img src="http://ordernow.com.ar/TP2/s3-a3.jpg">
+		</article>
+		<article>
+			<img src="http://ordernow.com.ar/TP2/s3-a4.jpg">
+		</article>
+	</section>
+	<section>
+		<img src="http://ordernow.com.ar/TP2/banner-2.jpg">
+		<h2>A creative design firm</h2>
+		<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</h3>
+		<button type="button">About</button>
+	</section>
+	<section>
+		<article>
+			<h2> We are on Instagram</h2>
+			<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h3>
+			<a href="https://www.instagram.com/">
+				<img src="http://ordernow.com.ar/TP2/instagram1.jpg">
+			</a>
+			<a href="https://www.instagram.com/">
+				<img src="http://ordernow.com.ar/TP2/instagram2.jpg">
+			</a>
+			<a href="https://www.instagram.com/">
+				<img src="http://ordernow.com.ar/TP2/instagram3.jpg">
+			</a>
+			<a href="https://www.instagram.com/">
+				<img src="http://ordernow.com.ar/TP2/instagram4.jpg">
+			</a>
+			<a href="https://www.instagram.com/">
+				<img src="http://ordernow.com.ar/TP2/instagram1.jpg">
+			</a>
+			<a href="https://www.instagram.com/">
+				<img src="http://ordernow.com.ar/TP2/instagram2.jpg">
+			</a>
+		</article>
+	</section>
+<footer>
+	<section>
+	<h4>Newsletter</h4>
+	<h5>Subscribe to our newsletter to recive news, updates and the latest projects we are working on.</h5>
+	<form>
+		<input type="email" name="email" placeholder="Type your email here">
+		<input type="submit" value="Submit">
+	</form>
+</section>
+<section>
+	<p>Copyright blabla</p>
+	<p>Developed by blablabla</p>
+</section>
+</footer>
+</body>
+
+</html>
