@@ -6,7 +6,7 @@
 </head>
 <body>
 	<header>
-		<img src="http://ordernow.com.ar/TP2/banner-1.jpg"</>
+		<img src="http://ordernow.com.ar/TP2/banner-1.jpg" width="100%"</>
 		<a href="indexp.html">
 			<img src="http://ordernow.com.ar/TP2/logo-white.png">
 		</a>
@@ -24,38 +24,41 @@
 	</header>
 	<section>
 		<article>
-			<img src="http://ordernow.com.ar/TP2/article-1.jpg"</>
+			<img src="http://ordernow.com.ar/TP2/article-1.jpg" width="50%"</>
 		</article>
 		<article>
-			<img src="http://ordernow.com.ar/TP2/article-2.jpg"</>
+			<video width="50%" controls>
+				<source src="http://ordernow.com.ar/TP2/video-ejemplo-1.mp4">
+					Tu navegador no soporta el formato de video.
+			</video>
 		</article>
 		<article>
-			<img src="http://ordernow.com.ar/TP2/article-3.jpg"</>
-		</article>
-	</section>
-	<section>
-		<article>
-			<img src="http://ordernow.com.ar/TP2/s2-a1.jpg"</>
+			<img src="http://ordernow.com.ar/TP2/article-3.jpg" width="50%"</>
 		</article>
 	</section>
 	<section>
 		<article>
-			<img src="http://ordernow.com.ar/TP2/s3-a1.jpg"</>
+			<img src="http://ordernow.com.ar/TP2/s2-a1.jpg" width="100%"</>
+		</article>
+	</section>
+	<section>
+		<article>
+			<img src="http://ordernow.com.ar/TP2/s3-a1.jpg" width="50%"</>
 		</article>
 		<article>
-			<img src="http://ordernow.com.ar/TP2/s3-a2.jpg">
+			<img src="http://ordernow.com.ar/TP2/s3-a2.jpg" width="50%">
 			<h2>Letters</h2>
 			<h3>Web</h3>
 		</article>
 		<article>
-			<img src="http://ordernow.com.ar/TP2/s3-a3.jpg">
+			<img src="http://ordernow.com.ar/TP2/s3-a3.jpg" width="50%">
 		</article>
 		<article>
-			<img src="http://ordernow.com.ar/TP2/s3-a4.jpg">
+			<img src="http://ordernow.com.ar/TP2/s3-a4.jpg" width="50%">
 		</article>
 	</section>
 	<section>
-		<img src="http://ordernow.com.ar/TP2/banner-2.jpg">
+		<img src="http://ordernow.com.ar/TP2/banner-2.jpg" width="100%">
 		<h2>A creative design firm</h2>
 		<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</h3>
 		<button type="button">About</button>
@@ -65,22 +68,22 @@
 			<h2> We are on Instagram</h2>
 			<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h3>
 			<a href="https://www.instagram.com/">
-				<img src="http://ordernow.com.ar/TP2/instagram1.jpg">
+				<img src="http://ordernow.com.ar/TP2/instagram1.jpg" width="16%">
 			</a>
 			<a href="https://www.instagram.com/">
-				<img src="http://ordernow.com.ar/TP2/instagram2.jpg">
+				<img src="http://ordernow.com.ar/TP2/instagram2.jpg" width="16%">
 			</a>
 			<a href="https://www.instagram.com/">
-				<img src="http://ordernow.com.ar/TP2/instagram3.jpg">
+				<img src="http://ordernow.com.ar/TP2/instagram3.jpg" width="16%">
 			</a>
 			<a href="https://www.instagram.com/">
-				<img src="http://ordernow.com.ar/TP2/instagram4.jpg">
+				<img src="http://ordernow.com.ar/TP2/instagram4.jpg" width="16%">
 			</a>
 			<a href="https://www.instagram.com/">
-				<img src="http://ordernow.com.ar/TP2/instagram1.jpg">
+				<img src="http://ordernow.com.ar/TP2/instagram1.jpg" width="16%">
 			</a>
 			<a href="https://www.instagram.com/">
-				<img src="http://ordernow.com.ar/TP2/instagram2.jpg">
+				<img src="http://ordernow.com.ar/TP2/instagram2.jpg" width="16%">
 			</a>
 		</article>
 	</section>
